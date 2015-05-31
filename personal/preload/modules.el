@@ -1,0 +1,7 @@
+;(require 'prelude-clojure)
+;(require 'prelude-css)
+;(require 'prelude-haskell)
+;(require 'prelude-js)
+;(require 'prelude-xml)
+;(require 'prelude-web)
+;(require 'prelude-scss)

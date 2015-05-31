@@ -81,12 +81,12 @@
 (global-set-key (kbd "M-Z") 'zop-to-char)
 
 ;; kill lines backward
-(global-set-key (kbd "C-<backspace>") (lambda ()
-                                        (interactive)
-                                        (kill-line 0)
-                                        (indent-according-to-mode)))
+;(global-set-key (kbd "C-<backspace>") (lambda ()
+;                                        (interactive)
+;                                        (kill-line 0)
+;                                        (indent-according-to-mode)))
 
-(global-set-key [remap kill-whole-line] 'prelude-kill-whole-line)
+;(global-set-key [remap kill-whole-line] 'prelude-kill-whole-line)
 
 ;; Activate occur easily inside isearch
 (define-key isearch-mode-map (kbd "C-o")

@@ -1,3 +1,8 @@
+David Ackerman's Customized Prelude
+===================================
+
+Original documentation below:
+
 [![License GPL 3][badge-license]](http://www.gnu.org/licenses/gpl-3.0.txt)
 [![Gratipay](http://img.shields.io/gratipay/bbatsov.svg)](https://gratipay.com/bbatsov/)
 
